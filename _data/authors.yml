@@ -1,11 +1,24 @@
 # specify site authors in this file
 # you can add .yml files for any other global data in this folder
 
-dan_urbanowicz:
-    name: Dan Urbanowicz
-    email: dan.urbanowicz@gmail.com
-    web: https://www.danurbanowicz.com
-john_doe:
-    name: John Doe
-    email: johndoe@email.com
-    web: http://twitter.com/johndoe
+annemarie_van_den_bossche:
+    name: Anne-Marie Van den Bossche
+    email: am@taiji-vereniging-grimbergen.be
+eddy_present:
+    name: Eddy Present
+    email: eddy@taiji-vereniging-grimbergen.be
+    web: https://eddypresent.be
+karine_renotte:
+    name: Karina Renotte
+    email: karina@taiji-vereniging-grimbergen.be
+nancy_bevers:
+    name: Nancy Bevers
+    email: nancybevers@gmail.com
+joachim_vanderhoeven:
+    name: Joachim Van der Hoeven
+    email: joachim@4d.be
+    web: https://4d.be
+marc_hermans:
+    name: Marc Hermans 
+    email: marc@taiji-vereniging-grimbergen.be 
+    web: http://marchermans.be
