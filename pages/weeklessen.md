@@ -15,57 +15,59 @@ permalink: /weeklessen
 De lessen worden gegeven door Taijimeester Eddy Present, Anne-Marie Van den Bossche, Nancy Bevers en Marc Hermans. Ze worden langzaam en degelijk opgebouwd, zodat je de bewegingen ook thuis kan uitvoeren. Gemakkelijke, losse kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken meebrengen is altijd verstandig.  
 
 
-# Grimbergen
+## Grimbergen
 <!-- [Download Agenda Grimbergen 2019-2020 - pdf - 47kb](/flyers/Grimbergen_2019-2020.pdf){:target="_blank"}   -->
 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}  
 Er is voldoende parkeergelegenheid (gratis) en er is vlakbij een bushalte.  
 
+#### Maandag
 
+- 18:45-20:15 : Vergevorderden door Anne-Marie Van den Bossche  
+- 20:30-22:00 : Gevorderden  (3°deel) door Anne-Marie Van den Bossche  
+  
+#### Woensdag  
 
-Maandag  
-18:45-20:15 : Vergevorderden <br>door Anne-Marie Van den Bossche
-20:30-22:00 : Gevorderden  (3°deel) <br>door Anne-Marie Van den Bossche 
+- 18:45-20:15 : Vergevorderd door Nancy Bevers
+- 20:30-22:00 : Beginners (1°deel) door Nancy Bevers  
 
-Woensdag  
-18:45-20:15 : Vergevorderd <br>door Nancy Bevers
-20:30-22:00 : Beginners (1°deel) <br>door Nancy Bevers
+#### Vrijdag  
 
-Vrijdag  
-13:30-15:00 : Vergevorderd  door Eddy Present &amp; Anne-Marie Van den Bossche  
-15:15-16:30 : Beginners (1°deel) door Anne-Marie Van den Bossche
-18:45-20:15 : Halfgevorderd (2°deel) door Anne-Marie Van den Bossche
-20:30-22:00 : Vergevorderd door Eddy Present &amp; Anne-Marie Van den Bossche
+- 13:30-15:00 : Vergevorderd  door Eddy Present &amp; Anne-Marie Van den Bossche  
+- 15:15-16:30 : Beginners (1°deel) door Anne-Marie Van den Bossche  
+- 18:45-20:15 : Halfgevorderd (2°deel) door Anne-Marie Van den Bossche  
+- 20:30-22:00 : Vergevorderd door Eddy Present &amp; Anne-Marie Van den Bossche  
 
 Altijd up-to-date met onze online kalender Grimbergen.
 
 
-# Mechelen
+## Mechelen
 <!-- [Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf){:target="_blank"}   -->
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16){:target="_blank"}  
+  
+#### dinsdag
 
+- 18:45-20:15 : Gevorderden  (3°deel) door Eddy Present &amp; Marc Hermans  
+- 20:30-22:00 : Beginners (1°deel) door Eddy Present &amp; Marc Hermans  
+  
+#### donderdag
 
-dinsdag
-18:45-20:15 : Gevorderden  (3°deel) door Eddy Present &amp; Marc Hermans  
-20:30-22:00 : Beginners (1°deel) door Eddy Present &amp; Marc Hermans  
-
-donderdag
-18:45-20:15 : Vergevorderd door Eddy Present &amp; Marc Hermans  
-20:30-22:00 : Vergevorderd door Eddy Present &amp; Marc Hermans  
-
+- 18:45-20:15 : Vergevorderd door Eddy Present &amp; Marc Hermans  
+- 20:30-22:00 : Vergevorderd door Eddy Present &amp; Marc Hermans  
+  
 Altijd up-to-date met onze online kalender Mechelen.
-
 
 Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken meebrengen is altijd verstandig.
 
 ### Een kennismakingsles is steeds gratis en vrijblijvend.
 
-## Lesgelden (BTW inbegrepen)
-* per les van 1,5 uur = 13 &euro;
-* per 10 beurtenkaart = 120 &euro; 
-* jaarlijks lidgeld €15 (inclusief verzekering)
-* 10 beurtenkaart word aangeschaft via overschrijving naar BE05 9731 6901 6975 van de TaiJi-vereniging Grimbergen met vermelding “naam + kaartnummer”
+### Lesgelden (BTW inbegrepen)
+
+- per les van 1,5 uur = 13 &euro;
+- per 10 beurtenkaart = 120 &euro; 
+- jaarlijks lidgeld €15 (inclusief verzekering)
+- 10 beurtenkaart word aangeschaft via overschrijving naar BE05 9731 6901 6975 van de TaiJi-vereniging Grimbergen met vermelding “naam + kaartnummer”
 Deze kaart is één kalenderjaar geldig
 
 Een factuur of een bewijs kan verkregen worden.  
