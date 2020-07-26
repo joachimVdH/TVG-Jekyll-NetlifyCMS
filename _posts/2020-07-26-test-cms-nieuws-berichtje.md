@@ -1,8 +1,11 @@
 ---
 layout: post
 title: test CMS nieuws berichtje
+meta_description: optional meta
 author: joachim_vanderhoeven
 date: 2020-07-26 13:54:14
+intro_paragraph: zomer taijiquan !!!
+categories: zomertaijiquan
 ---
 In juli en augustus begeleiden we Taiji in open lucht\
 Elke maandag, 19u30, te **Grimbergen** op de Wijde Wereld Weide.\
