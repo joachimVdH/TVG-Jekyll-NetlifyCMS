@@ -3,7 +3,7 @@ layout: post
 title: test CMS nieuws berichtje
 meta_description: optional meta
 author: joachim_vanderhoeven
-date: '2020-07-26 13:54:14'
+date: "'2020-07-26 14:54:34'"
 intro_paragraph: zomer taijiquan !!!
 categories: zomertaijiquan
 ---
