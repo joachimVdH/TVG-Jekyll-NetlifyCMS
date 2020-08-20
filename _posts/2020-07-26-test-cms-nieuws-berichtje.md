@@ -4,7 +4,7 @@ title: test CMS nieuws berichtje
 meta_description: optional meta
 author: joachim_vanderhoeven
 date: '2020-07-26 14:54:34'
-intro_paragraph: zomer taijiquan !!!
+# intro_paragraph: zomer taijiquan !!!
 categories: zomertaijiquan
 ---
 In juli en augustus begeleiden we Taiji in open lucht\

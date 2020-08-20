@@ -1,13 +1,8 @@
 ---
 layout: page
 title: Over ons
-meta_description: |
-  algemene informatie over de vereniging TGV
+meta_description: algemene informatie over de vereniging TGV
 permalink: /overons
-intro_paragraph: >-
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-
-  CMS, accessible at `/admin/index.html` or by editing `pages/overons.md` in a text editor.
 ---
 # DE VERENIGING
 
