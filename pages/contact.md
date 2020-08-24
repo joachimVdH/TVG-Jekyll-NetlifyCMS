@@ -5,4 +5,4 @@ permalink: /contact
 section: contact
 ---
 
-**Send us a message**
+**Stuur ons een bericht**
