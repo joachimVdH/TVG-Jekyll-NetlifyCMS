@@ -14,7 +14,7 @@ De lessen worden gegeven door Taijimeester Eddy Present, Anne-Marie Van den Boss
 
 ## Grimbergen
 
-<!-- \[Download Agenda Grimbergen 2019-2020 - pdf - 47kb](/flyers/Grimbergen_2019-2020.pdf){:target="_blank"}   -->
+<!-- \\[Download Agenda Grimbergen 2019-2020 - pdf - 47kb](/flyers/Grimbergen_2019-2020.pdf){:target="_blank"}   -->
 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}\
 Er is voldoende parkeergelegenheid (gratis) en er is vlakbij een bushalte.  
@@ -40,7 +40,7 @@ Kalender Grimbergen.
 
 ## Mechelen
 
-<!-- \[Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf){:target="_blank"}   -->
+<!-- \\[Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf){:target="_blank"}   -->
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16){:target="_blank"}  
 
@@ -56,7 +56,7 @@ Kalender Grimbergen.
 
 Kalender Mechelen.
 
-### Een kennismakingsles is steeds gratis en vrijblijvend.
+### Een proefles is steeds gratis en vrijblijvend.
 
 ### Lesgelden (BTW inbegrepen)
 
@@ -70,7 +70,7 @@ Een factuur of een bewijs kan verkregen worden. Vraag informatie!
 
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 <script>
-	var mymap = L.map('mapid').setView(\[50.9889,4.3807], 11);
+	var mymap = L.map('mapid').setView(\\[50.9889,4.3807], 11);
 
 ```
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
