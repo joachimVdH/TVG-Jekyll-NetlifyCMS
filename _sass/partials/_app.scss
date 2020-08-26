@@ -171,12 +171,25 @@ html[data-current="contact"] main > form {
 footer {
   grid-column: full;
   display: grid;
-  grid-template-columns:
-    [full-start] minmax(1rem, 1fr)
-    [main-start] minmax(0, 50rem) [main-end]
-    minmax(1rem, 1fr) [full-end];
+ // grid-template-columns:
+ //   [full-start] minmax(1rem, 1fr)
+ //   [main-start] minmax(0, 50rem) [main-end]
+ //   minmax(1rem, 1fr) [full-end];
   background-color: $grey-bg-color;
   > small {
     grid-column: main;
+  }
+  text-align: center;
+  a,
+  a:visited {
+    border-bottom: none;
+    text-decoration: none;
+    color: $link-color;
+  }
+  a:hover,
+  a:active {
+    text-decoration: none;
+    border: 0;
+    color: $link-hover-color;
   }
 }

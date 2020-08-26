@@ -30,6 +30,6 @@ Zoals:
 
 Bankrekening bij Argenta bank- en verzekeringsgroep: BE88 9733 8425 6541  
 
-Privacyverklaring
+[Privacyverklaring](/privacyverklaring.html)
 
 [Linken naar bevriende websites](/linken.html)

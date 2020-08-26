@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 .users.yml
 .jekyll-cache
+.jekyll-cache/Jekyll/Cache/Jekyll--Cache/*
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/*
