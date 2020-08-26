@@ -1,14 +1,18 @@
---- 
-title: De Vorm
+---
 layout: page
+title: De Vorm
 permalink: /vorm
 ---
-De mens is gemaakt om te bewegen maar niet iedereen kan intensief aan sport doen. Taiji kan beoefend worden door iedereen ongeacht leeftijd of fitheid. Het regelmatig beoefenen van Taiji helpt om de lichamelijke en geestelijke gezondheid te behouden en te verbeteren.  
-Taiji was oorspronkelijk een oosterse gevechtskunst die geëvolueerd is tot een bewegingskunst, een meditatieve manier van bewegen. Het is de opeenvolging van trage en harmonieuze bewegingen die met heel veel aandacht worden uitgevoerd. Het scherpt de concentratie, brengt meer evenwicht en bevordert het welzijn van zij die het beoefenen.  
+De mens is gemaakt om te bewegen maar niet iedereen kan intensief aan sport doen. Taiji kan beoefend worden door iedereen ongeacht leeftijd of fitheid. Het regelmatig beoefenen van Taiji helpt om de lichamelijke en geestelijke gezondheid te behouden en te verbeteren.
+
+Taiji was oorspronkelijk een oosterse gevechtskunst die geëvolueerd is tot een bewegingskunst, een meditatieve manier van bewegen. Het is de opeenvolging van trage en harmonieuze bewegingen die met heel veel aandacht worden uitgevoerd. Het scherpt de concentratie, brengt meer evenwicht en bevordert het welzijn van zij die het beoefenen.
+
 Er bestaan binnen het Taiji verschillende stijlen die eenzelfde doel nastreven. Wij beoefenen binnen de Yangstijl de Yang Hemelberg Middenvorm - Taijiquan Nanpai  - Zuidelijke school Yang Tian Shan Zhong Jiao  
 
 ## Eerste deel
+
 ### vorm
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pOYOK1rs3tg" frameborder="0" allowfullscreen></iframe>
 ### martiaal
 <iframe width="420" height="315" src="https://www.youtube.com/embed/y-OxQ6grI0w" frameborder="0" allowfullscreen></iframe>
@@ -137,7 +141,9 @@ Er bestaan binnen het Taiji verschillende stijlen die eenzelfde doel nastreven. 
 </table>
 
 ## Tweede deel
+
 ### vorm
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/K0fnucaqC-0" frameborder="0" allowfullscreen></iframe>
 ### martiaal
 <iframe width="420" height="315" src="https://www.youtube.com/embed/SsRD8l4NfnQ" frameborder="0" allowfullscreen></iframe>
@@ -408,7 +414,9 @@ Er bestaan binnen het Taiji verschillende stijlen die eenzelfde doel nastreven. 
 </table>
 
 ## Derde deel
+
 ### vorm
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/11iFHdwIQEM" frameborder="0" allowfullscreen></iframe>
 ### martiaal
 <iframe width="420" height="315" src="https://www.youtube.com/embed/NJ3BRW-b8v4" frameborder="0" allowfullscreen></iframe>
