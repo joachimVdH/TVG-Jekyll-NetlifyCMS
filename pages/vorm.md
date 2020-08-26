@@ -7,7 +7,7 @@ De mens is gemaakt om te bewegen maar niet iedereen kan intensief aan sport doen
 
 Taiji was oorspronkelijk een oosterse gevechtskunst die geëvolueerd is tot een bewegingskunst, een meditatieve manier van bewegen. Het is de opeenvolging van trage en harmonieuze bewegingen die met heel veel aandacht worden uitgevoerd. Het scherpt de concentratie, brengt meer evenwicht en bevordert het welzijn van zij die het beoefenen.
 
-Er bestaan binnen het Taiji verschillende stijlen die eenzelfde doel nastreven. Wij beoefenen binnen de Yangstijl de Yang Hemelberg Middenvorm - Taijiquan Nanpai  - Zuidelijke school Yang Tian Shan Zhong Jiao  
+Er bestaan binnen het Taiji verschillende stijlen die eenzelfde doel nastreven. Wij beoefenen binnen de Yangstijl de Yang Hemelberg Middenvorm - Taijiquan Nanpai  - Zuidelijke school Yang Tian Shan Zhong Jiao.
 
 ## Eerste deel
 
