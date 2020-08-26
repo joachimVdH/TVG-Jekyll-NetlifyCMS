@@ -20,6 +20,8 @@ Zoals:
 * Bijdragen aan de vorming van de jeugd.  
 * Bijdragen aan het welbevinden van de bevolking door een betere lichamelijke en geestelijke gezondheid.  
 
+
+
 ### 2 De vereniging is strekkingloos
 
 ### 3 Bestuur:
