@@ -14,7 +14,7 @@ De lessen worden gegeven door Taijimeester Eddy Present, Anne-Marie Van den Boss
 
 ## Grimbergen
 
-<!-- \\\[Download Agenda Grimbergen 2019-2020 - pdf - 47kb](/flyers/Grimbergen_2019-2020.pdf){:target="_blank"}   -->
+<!-- \\\\[Download Agenda Grimbergen 2019-2020 - pdf - 47kb](/flyers/Grimbergen_2019-2020.pdf){:target="_blank"}   -->
 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://goo.gl/maps/zuG3MTbFtg82){:target="_blank"}\
 Er is voldoende parkeergelegenheid (gratis) en er is vlakbij een bushalte.  
@@ -26,8 +26,8 @@ Er is voldoende parkeergelegenheid (gratis) en er is vlakbij een bushalte.
 
 #### Woensdag
 
-* 18:45-20:15 : Vergevorderd door Nancy Bevers
-* 20:30-22:00 : Beginners (1°deel) door Nancy Bevers  
+* 18:45-20:15 : Beginners (1°deel) door Nancy Bevers
+* 20:30-22:00 : (Ver)gevorderden door Nancy Bevers  
 
 #### Vrijdag
 
@@ -36,11 +36,9 @@ Er is voldoende parkeergelegenheid (gratis) en er is vlakbij een bushalte.
 * 18:45-20:15 : Halfgevorderd (2°deel) door Anne-Marie Van den Bossche  
 * 20:30-22:00 : Vergevorderd door Eddy Present &amp; Anne-Marie Van den Bossche  
 
-
-
 ## Mechelen
 
-<!-- \\\[Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf){:target="_blank"}   -->
+<!-- \\\\[Download Agenda Mechelen 2019-2020 - pdf - 46kb](/flyers/Mechelen_2019-2020.pdf){:target="_blank"}   -->
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16){:target="_blank"}  
 
@@ -53,8 +51,6 @@ Er is voldoende parkeergelegenheid (gratis) en er is vlakbij een bushalte.
 
 * 18:45-20:15 : Vergevorderd door Eddy Present &amp; Marc Hermans  
 * 20:30-22:00 : Vergevorderd door Eddy Present &amp; Marc Hermans  
-
-
 
 ### Een proefles is steeds gratis en vrijblijvend.
 
@@ -80,7 +76,7 @@ Een factuur of een bewijs kan verkregen worden. Vraag informatie!
 
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 <script>
-	var mymap = L.map('mapid').setView(\\\[50.9889,4.3807], 11);
+	var mymap = L.map('mapid').setView(\\\\[50.9889,4.3807], 11);
 
 ```
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
