@@ -8,7 +8,7 @@ Interesse in een gratis kennismakingsles?  Is het lang geleden of heb je nog gee
 
 ### GRIMBERGEN
 
-Woensdagavond met Nancy Bevers van 20:30 tot 22u00.\
+Woensdagavond met Nancy Bevers van 18u45 tot 20u15.\
 Vrijdagnamiddag met Anne-Marie van 15u15 tot 16u30  
 
 ### MECHELEN
