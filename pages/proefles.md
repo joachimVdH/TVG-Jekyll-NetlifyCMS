@@ -6,8 +6,6 @@ permalink: /proefles
 ---
 #### Deze website is niet meer up-to-date. De vereniging is ontbonden.
 
-
-
 ### GRIMBERGEN
 
 Woensdagavond met Nancy Bevers van 18u45 tot 20u15.\
