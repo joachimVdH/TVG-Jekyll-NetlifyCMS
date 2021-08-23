@@ -4,7 +4,9 @@ title: Proefles
 meta_description: inschrijfformulier voor proefles
 permalink: /proefles
 ---
-Interesse in een gratis kennismakingsles?  Is het lang geleden of heb je nog geen ervaring met Taiji, maar wil je het toch eens proberen? Dat kan zowel in de Charleroyhoeve te Grimbergen als in de basisschool De Spreeuwen te Mechelen.  
+#### Deze website is niet meer up-to-date. De vereniging is ontbonden.
+
+
 
 ### GRIMBERGEN
 
